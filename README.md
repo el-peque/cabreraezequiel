@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Peque</h1>
 <h3 align="center">A passionate developer from Uruguay</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cabreraezequiel&label=Profile%20views&color=0e75b6&style=flat" alt="cabreraezequiel" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=cabreraezequiel&label=Profile%20views&color=0e75b6&style=flat" alt="cabreraezequiel" /> </p>
 
 
 - 📫 How to reach me **ezequielcabrera2601@gmail.com**

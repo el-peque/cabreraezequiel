@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cabreraezequiel&label=Profile%20views&color=0e75b6&style=flat" alt="cabreraezequiel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cabreraezequiel" alt="cabreraezequiel" /></a> </p>
 
 - 📫 How to reach me **ezequielcabrera2601@gmail.com**
 
